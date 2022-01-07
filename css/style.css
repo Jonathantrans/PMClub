@@ -88,7 +88,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #ffd700;
+  border-left: 4px solid #eebbbb;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -185,7 +185,7 @@ a:hover {
 
 a:hover,
 a:focus {
-  color: #ffd700 !important;
+  color: #eebbbb !important;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -204,7 +204,7 @@ a:focus {
   margin: 0 auto;
   text-align: center;
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
-  background: #ffd700;
+  background: #eebbbb;
   padding: 10% 5%;
   color: #000000;
 }
@@ -284,7 +284,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #ffd700;
+  color: #eebbbb;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -318,7 +318,7 @@ nav ul li a {
     margin: 0 auto;
     text-align: center;
     box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
-    background: #ffd700;
+    background: #eebbbb;
     padding: 20% 10%;
     color: #000000;
     font-size: 2rem;
@@ -344,7 +344,7 @@ nav ul li a {
     margin: 0 auto;
     text-align: center;
     box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
-    background: #ffd700;
+    background: #eebbbb;
     padding: 30% 10%;
     color: #000000;
     font-size: 2rem;
@@ -364,7 +364,7 @@ nav ul li a {
     margin: 0 auto;
     text-align: center;
     box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
-    background: #ffd700;
+    background: #eebbbb;
     padding: 40% 5%;
     color: #000000;
     font-size: 2rem;
